@@ -28,17 +28,16 @@ The project emphasized **project management principles**, **AI strategy**, and *
 
 ## 📁 Key Deliverables
 
-| Phase | Deliverable |
-|-------|-------------|
-| Phase 1 | Capstone Consulting Engagement Schedule (Gantt Chart) |
-| Phase 2 | Scope Statement & RACI Matrix |
-| Phase 3 | Client AI Solution & Implementation Plan |
-| Phase 4 | Risk Analysis Artifact |
-| Phase 5 | Budget and Cost Overview |
-| Phase 6 | Final Implementation Portfolio Report |
-| Phase 7 | Final Stakeholder Buy-In Presentation |
+| Phase   | Deliverable |
+|---------|-------------|
+| Phase 1 | [Capstone Consulting Engagement Schedule (Gantt Chart)](./phase_1.mpp) |
+| Phase 2 | [Scope Statement (Word)](./phase_2_word.docx), [RACI Matrix (Gantt Chart)](./phase_2.mpp) |
+| Phase 3 | [Client AI Solution & Implementation Plan](./phase_3_word.docx) |
+| Phase 4 | [Risk Analysis Artifact (Excel)](./phase_4.xlsx) |
+| Phase 5 | [Budget and Cost Overview (Gantt Chart)](./phase_5.mpp) |
+| Phase 6 | [Final Implementation Portfolio Report (PDF)](./phase_6.pdf) |
+| Phase 7 | [Final Stakeholder Buy-In Presentation (PowerPoint)](./phase_7.pptx) |
 
-> 📸 *Screenshots of select deliverables can be added here.*
 
 ---
 
@@ -72,7 +71,6 @@ The project emphasized **project management principles**, **AI strategy**, and *
 
 ## 📊 Screenshots 
 
-## 📊 Screenshots
 
 Here are key visuals from our final capstone project deliverables and presentation:
 
