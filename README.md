@@ -77,10 +77,10 @@ The project emphasized **project management principles**, **AI strategy**, and *
 Here are key visuals from our final capstone project deliverables and presentation:
 
 ### 📌 Gantt Chart (Project Schedule)
-![Gantt Chart](gantt-chart.png)
+![Gantt Chart](ganttchart.png)
 
 ### 📌 Risk Matrix
-![Risk Matrix](risk-matrix.png)
+![Risk Matrix](Riskmatrix.png)
 
 ### 📌 Title Slide
 ![Title Slide](title-slide.png)
