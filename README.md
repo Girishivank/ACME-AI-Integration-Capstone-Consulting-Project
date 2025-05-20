@@ -35,7 +35,7 @@ The project emphasized **project management principles**, **AI strategy**, and *
 | Phase 3 | [Client AI Solution & Implementation Plan](./phase3word.docx) |
 | Phase 4 | [Risk Analysis Artifact (Excel)](./phase4.xlsx) |
 | Phase 5 | [Budget and Cost Overview (Gantt Chart)](./phase5.mpp) |
-| Phase 6 | [Final Implementation Portfolio Report (PDF)](./phase6.pdf) |
+| Phase 6 | [Final Implementation Portfolio Report (PDF)](./phase6a.pdf) |
 | Phase 7 | [Final Stakeholder Buy-In Presentation (PowerPoint)](./phase7.pptx) |
 
 
