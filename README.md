@@ -53,8 +53,8 @@ The project emphasized **project management principles**, **AI strategy**, and *
 
 ## 👥 Team Members & Roles
 
-- **Shivank Giri** – Budgeting, API strategy, stakeholder engagement
-- **Jasmeen Kaur** – Gantt charting, risk analysis, QA testing
+- **Shivank Giri** – Budgeting, API strategy, stakeholder engagement, risk analysis
+- **Jasmeen Kaur** – Gantt charting, QA testing
 - **Yanish Shahi** – Scope documentation, module development, reporting
 
 > 💼 All team members worked ~2 hours/week. Tasks were managed using a RACI chart.
